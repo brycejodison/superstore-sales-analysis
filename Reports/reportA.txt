@@ -1,0 +1,13 @@
+In dashboard A, we see 2 charts and 1 KPI card.
+
+The kpi card allows a viewer to easily recognize yearly sales.
+A profit card will be added that allows users to easily recognize that as well.
+
+The charts easily allow users
+a.) visualize which months are most profitable
+b.) visualize a breakdown of what categories sell the most by month.
+
+Unsurprisingly, we notice sales trend upwards in the Winter months; likely due
+to the gift-giving nature of them. We also note that a vast majority of the 
+companies sales is coming from Office Supplies; a more agressive marketing campaign
+tailored to the other categories may  be in order. That, or dropping other categories to save money.

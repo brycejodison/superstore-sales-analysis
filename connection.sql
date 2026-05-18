@@ -1,0 +1,2 @@
+ALTER TABLE super_orders_clean
+ADD COLUMN order_date_clean;
